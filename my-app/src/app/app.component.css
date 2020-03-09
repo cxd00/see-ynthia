@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+html {
+    height: 100%;
+}
+
+div {
+    padding: 0;
+}
